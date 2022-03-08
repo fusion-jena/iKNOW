@@ -18,10 +18,10 @@ We used [OntoSoft-VFF](http://ontosoft-earthcube.github.io/ontosoft/ontosoft%20o
 <thead>
   <tr>
     <th></th>
-    <th>**Features**</th>
-    <th>**Description**</th>
-    <th>**Values**</th>
-    <th>**Type of features**</th>
+    <th>Features</th>
+    <th>Description</th>
+    <th>Values</th>
+    <th>Type of features</th>
   </tr>
 </thead>
 <tbody>
