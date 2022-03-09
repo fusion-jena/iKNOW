@@ -178,7 +178,7 @@ We used [OntoSoft-VFF](http://ontosoft-earthcube.github.io/ontosoft/ontosoft%20o
     <td>Auxiliary</td>
   </tr>
   <tr>
-    <td rowspan="4">User request</td>
+    <td rowspan="8">User request</td>
     <td>hasVersionId</td>
     <td>version of dataset</td>
     <td>text based value</td>
@@ -200,6 +200,30 @@ We used [OntoSoft-VFF](http://ontosoft-earthcube.github.io/ontosoft/ontosoft%20o
     <td>hasAverageRunTime</td>
     <td>desired processing run time (a numeric value with units)</td>
     <td>text based value in the time unit</td>
+    <td>Auxiliary</td>
+  </tr>
+    <tr>
+    <td>hasInputFile</td>
+    <td>The input file of the user</td>
+    <td>text based value</td>
+    <td>Auxiliary</td>
+  </tr>
+  <tr>
+    <td>hasInputFileArgument</td>
+    <td>The argument of the input file of the user</td>
+    <td>text based value</td>
+    <td>Auxiliary</td>
+  </tr>
+  <tr>
+    <td>hasInputFileDataType</td>
+    <td>The input file type of the user</td>
+    <td>text based value e.g., String, Tabular, Text, etc.</td>
+    <td>Auxiliary</td>
+  </tr>
+  <tr>
+    <td>hasInputFileDataFormat</td>
+    <td>The data format of the input file of the user</td>
+    <td>text based value</td>
     <td>Auxiliary</td>
   </tr>
   <tr>
