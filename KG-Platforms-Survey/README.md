@@ -3,7 +3,7 @@ Leveraging Knowledge Graphs for iDiv and Biodiversity
 
 This repository is dedicated to our research material for a survey on the Knowledge Graphs management platform.
 
-Our research study is submitted to the [ESWC Wokrshop](https://2022.eswc-conferences.org/workshops-tutorials/).
+Our research study is submitted to the [ESWC Workshop](https://2022.eswc-conferences.org/workshops-tutorials/).
 
 ## Survey Methodology
 We used the systematic approach to finding publications on KG platforms: We have queried for the keyword ``Knowledge Graph Platform'' in the [Google Scholar search engine](https://scholar.google.com/) (access on 09.02.2022). At the time of querying, this resulted in 162 papers (including citation and patents). We used [Publish or Perish 8 tool](https://harzing.com/blog/2021/10/publish-or-perish-version-8) to save the result of the query.
