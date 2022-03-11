@@ -16,9 +16,9 @@ We did not include such cases. Moreover, we did not consider survey papers and p
 
 
 ## Results
-In this repository, we publish the result of our query to Google Scholar in two different formats: [CSV](https://github.com/fusion-jena/iKNOW/blob/main/KG-Platforms-Survey/KGplatfrom.csv) and [bib](https://github.com/fusion-jena/iKNOW/blob/main/KG-Platforms-Survey/KGplatform.bib).
+In this repository, we publish the result of our query to Google Scholar in two different formats: [CSV](https://github.com/fusion-jena/iKNOW/blob/main/KG-Platforms-Survey/KGplatform.csv) and [bib](https://github.com/fusion-jena/iKNOW/blob/main/KG-Platforms-Survey/KGplatform.bib).
 
-In the [KGplatform-Filtered.csv](https://github.com/fusion-jena/iKNOW/blob/main/KG-Platforms-Survey/KGplatfrom-Filtered.csv) file, we specified which papers have been selected, and for non-selected ones, we clarified the reason.
+In the [KGplatform-Filtered.csv](https://github.com/fusion-jena/iKNOW/blob/main/KG-Platforms-Survey/KGplatform-Filtered.csv) file, we specified which papers have been selected, and for non-selected ones, we clarified the reason.
 
 
 
