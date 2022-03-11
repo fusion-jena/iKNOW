@@ -16,7 +16,7 @@ We did not include such cases. Moreover, we did not consider survey papers and p
 ## Results
 It contains the result of our query to Google Scholar in two different formats: [CSV]() and [bib]().
 
-In [KGplatfrom-Filtered.csv], we specified which papers have been selected, and for non-selected ones, we clarified the reason.
+In the [KGplatfrom-Filtered.csv], we specified which papers have been selected, and for non-selected ones, we clarified the reason.
 
 
 
