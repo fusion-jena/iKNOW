@@ -1,0 +1,226 @@
+PaperTitle,Year,Author,Citation,Publication,URL
+[HTML][HTML] Benchmark and best practices for biomedical knowledge graph embeddings,2020,D Chang,,ncbi.nlm.nih.gov,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7971091/
+Constructing biomedical knowledge graph based on SemMedDB and linked open data,2018,Q Cong,,ieeexplore.ieee.org,https://ieeexplore.ieee.org/abstract/document/8621568/
+Biomedical Knowledge Graph Refinement with Embedding and Logic Rules,2012,S Zhao,,arxiv.org,https://arxiv.org/abs/2012.01031
+GrEDeL: A knowledge graph embedding based method for drug discovery from biomedical literatures,2018,S Sang,,ieeexplore.ieee.org,https://ieeexplore.ieee.org/abstract/document/8574025/
+[HTML][HTML] A Biomedical Knowledge Graph System to Propose Mechanistic Hypotheses for Real-World Environmental Health Observations: Cohort Study and …,2021,K Fecho,,medinform.jmir.org,https://medinform.jmir.org/2021/7/e26714/
+[HTML][HTML] SemaTyP: a knowledge graph based literature mining method for drug discovery,2018,S Sang,,Springer,https://link.springer.com/article/10.1186/s12859-018-2167-5
+[HTML][HTML] BERT based clinical knowledge extraction for biomedical knowledge graph construction and analysis,2021,A Harnoune,,Elsevier,https://www.sciencedirect.com/science/article/pii/S2666990021000410
+Enriching contextualized language model from knowledge graph for biomedical information extraction,2021,H Fei,,academic.oup.com,https://academic.oup.com/bib/article-abstract/22/3/bbaa110/5854405
+[PDF][PDF] Distantly supervised biomedical knowledge acquisition via knowledge graph based attention,2019,Q Dai,,aclweb.org,https://www.aclweb.org/anthology/W19-2601.pdf
+"DeepKG: An End-to-End Deep Learning-Based Workflow for Biomedical Knowledge Graph Extraction, Optimization and Applications.",2021,Z Li,,europepmc.org,https://europepmc.org/article/pmc/pmc8689937
+Knowledge graph-based approaches to drug repurposing for COVID-19,2021,J Al-Saleem,,Publications,https://pubs.acs.org/doi/abs/10.1021/acs.jcim.1c00642
+Expanding a database-derived biomedical knowledge graph via multi-relation extraction from biomedical abstracts,2020,DN Nicholson,,biorxiv.org,https://www.biorxiv.org/content/10.1101/730085v2.abstract
+Biomedical Knowledge Graph Refinement and Completion using Graph Representation Learning and Top-K Similarity Measure,2020,IA Ebeid,,arxiv.org,https://arxiv.org/abs/2012.10540
+Science Forum: Wikidata as a knowledge graph for the life sciences,2020,A Waagmeester,,elifesciences.org,https://elifesciences.org/articles/52614
+Biomedical knowledge discovery based on Sentence‐BERT,2020,S Shen,,Library,https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/pra2.362
+SumGNN: multi-typed drug interaction prediction via efficient knowledge graph summarization,2021,Y Yu,,academic.oup.com,https://academic.oup.com/bioinformatics/article-abstract/37/18/2988/6189090
+Biomedical Knowledge Graph Embeddings for Personalized Medicine,2021,J Vilela,,Springer,https://link.springer.com/chapter/10.1007/978-3-030-86230-5_46
+A knowledge graph based bidirectional recurrent neural network method for literature-based discovery,2018,S Sang,,ieeexplore.ieee.org,https://ieeexplore.ieee.org/abstract/document/8621423/
+Data Integration for Supporting Biomedical Knowledge Graph Creation at Large-Scale,1811,S Jozashoori,,arxiv.org,https://arxiv.org/abs/1811.01660
+Constructing biomedical domain-specific knowledge graph with minimum supervision,2020,J Yuan,,Springer,https://link.springer.com/article/10.1007/s10115-019-01351-4
+[HTML][HTML] KGHC: a knowledge graph for hepatocellular carcinoma,2020,N Li,,…,https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-020-1112-5
+[HTML][HTML] Using predicate and provenance information from a knowledge graph for drug efficacy screening,2018,WJ Vlietstra,,Springer,https://link.springer.com/article/10.1186/s13326-018-0189-6
+Towards context in large scale biomedical knowledge graphs,2020,J Dörpinghaus,,arxiv.org,https://arxiv.org/abs/2001.08392
+A benchmark for biomedical knowledge graph based similarity,2020,CMABF Cardoso,,repositorio.ul.pt,https://repositorio.ul.pt/handle/10451/45267
+Diagnosis method of thyroid disease combining knowledge graph and deep learning,2020,X Chai,,ieeexplore.ieee.org,https://ieeexplore.ieee.org/abstract/document/9167227/
+CBKH: The Cornell Biomedical Knowledge Hub,2021,C Su,,medrxiv.org,https://www.medrxiv.org/content/10.1101/2021.03.12.21253461v1.abstract
+Understanding the performance of knowledge graph embeddings in drug discovery,2021,S Bonner,,arxiv.org,https://arxiv.org/abs/2105.10488
+Neural Multi-Hop Reasoning With Logical Rules on Biomedical Knowledge Graphs,2021,Y Liu,,Springer,https://link.springer.com/chapter/10.1007/978-3-030-77385-4_22
+Mixture-of-Partitions: Infusing Large Biomedical Knowledge Graphs into BERT,2021,Z Meng,,arxiv.org,https://arxiv.org/abs/2109.04810
+CROssBAR: comprehensive resource of biomedical relations with knowledge graph representations,2021,T Doğan,,academic.oup.com,https://academic.oup.com/nar/article-abstract/49/16/e96/6310792
+[HTML][HTML] edge2vec: Representation learning using edge semantics for biomedical knowledge discovery,2019,Z Gao,,…,https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2914-2
+Poster Paper Data Integration for Supporting Biomedical Knowledge Graph Creation at Large-Scale,2018,S Jozashoori,,Springer,https://link.springer.com/chapter/10.1007/978-3-030-06016-9_9
+Interpretable graph convolutional neural networks for inference on noisy knowledge graphs,2018,D Neil,,arxiv.org,https://arxiv.org/abs/1812.00279
+A review of biomedical datasets relating to drug discovery: A knowledge graph perspective,2021,S Bonner,,arxiv.org,https://arxiv.org/abs/2102.10062
+[PDF][PDF] Survey on Generic and Biomedical Knowledge Graph,xx,E Amin,,cfilt.iitb.ac.in,https://www.cfilt.iitb.ac.in/resources/surveys/Ekant_SurveyPaper.pdf
+[PDF][PDF] Expanding a Database-derived Biomedical Knowledge Graph via Multi-relation Extraction from Biomedical,2020,DN Nicholson,,greenelab.github.io,https://greenelab.github.io/text_mined_hetnet_manuscript/v/1149d5d4ab45ee7ff8cec0698148f421bb01b290/manuscript.pdf
+Fast and scalable learning of neuro-symbolic representations of biomedical knowledge,1804,A Agibetov,,arxiv.org,https://arxiv.org/abs/1804.11105
+Scalable knowledge graph analytics at 136 petaflop/s,2020,R Kannan,,ieeexplore.ieee.org,https://ieeexplore.ieee.org/abstract/document/9355266/
+Drug-Drug Interaction Prediction on a Biomedical Literature Knowledge Graph,2020,K Bougiatiotis,,Springer,https://link.springer.com/chapter/10.1007/978-3-030-59137-3_12
+[HTML][HTML] Mining disease-symptom relation from massive biomedical literature and its application in severe disease diagnosis,2018,E Xia,,ncbi.nlm.nih.gov,https://www.ncbi.nlm.nih.gov/pmc/articles/pmc6371303/
+Knowledge graph-based recommendation framework identifies novel drivers of resistance in egfr mutant non-small cell lung cancer,2021,A Gogleva,,biorxiv.org,https://www.biorxiv.org/content/10.1101/2021.07.23.453506.abstract
+Wikidata as a FAIR knowledge graph for the life sciences,2020,A Waagmeester,,biorxiv.org,https://www.biorxiv.org/content/10.1101/799684v2.abstract
+[PDF][PDF] Wikidata as a knowledge graph for the life sciences,2020,W Andra,,drive.google.com,https://drive.google.com/file/d/1QBqDBP5HacGePL9fky3a8u2xEjukoQtu/view
+[PDF][PDF] Using a General Prior Knowledge Graph to Improve Data-Driven Causal Network Learning.,2021,M Sinha,,proceedings.aaai-make.info,https://proceedings.aaai-make.info/AAAI-MAKE-PROCEEDINGS-2021/paper31.pdf
+Knowledge Graph-based Neurodegenerative Diseases and Diet Relationship Discovery,2021,Y Nian,,arxiv.org,https://arxiv.org/abs/2109.06123
+FunMap: Efficient execution of functional mappings for knowledge graph creation,2020,S Jozashoori,,Springer,https://link.springer.com/chapter/10.1007/978-3-030-62419-4_16
+[HTML][HTML] Constructing knowledge graphs and their biomedical applications,2020,DN Nicholson,,Elsevier,https://www.sciencedirect.com/science/article/pii/S2001037020302804
+RTX-KG2: a system for building a semantically standardized knowledge graph for translational biomedicine,2021,EC Wood,,biorxiv.org,https://www.biorxiv.org/content/10.1101/2021.10.17.464747.abstract
+[PDF][PDF] Development of Knowledge Graph for University Courses Management,2020,I Aliyu,,mecs-press.net,http://www.mecs-press.net/ijeme/ijeme-v10-n2/IJEME-V10-N2-1.pdf
+Separating wheat from chaff: Joining biomedical knowledge and patient data for repurposing medications,2019,G Nordon,,ojs.aaai.org,https://ojs.aaai.org/index.php/AAAI/article/view/5017
+Scientific Language Models for Biomedical Knowledge Base Completion: An Empirical Study,2021,R Nadkarni,,arxiv.org,https://arxiv.org/abs/2106.09700
+Multi-relational knowledge graph completion method with local information fusion,2021,J Huang,,Springer,https://link.springer.com/article/10.1007/s10489-021-02876-4
+MedGraph: An experimental semantic information retrieval method using knowledge graph embedding for the biomedical citations indexed in PubMed,2112,IA Ebeid,,arxiv.org,https://arxiv.org/abs/2112.06348
+Predicting Potential Drug Targets Using Tensor Factorisation and Knowledge Graph Embeddings,2105,C Ye,,arxiv.org,https://arxiv.org/abs/2105.10578
+COVID-KOP: integrating emerging COVID-19 data with the ROBOKOP database,2021,D Korn,,academic.oup.com,https://academic.oup.com/bioinformatics/article-abstract/37/4/586/5974199
+Demystifying Drug Repurposing Domain Comprehension with Knowledge Graph Embedding,2021,E Ramalli,,ieeexplore.ieee.org,https://ieeexplore.ieee.org/abstract/document/9644981/
+[HTML][HTML] Knowledge-based approaches to drug discovery for rare diseases,2021,VM Alves,,Elsevier,https://www.sciencedirect.com/science/article/pii/S1359644621004529
+Matching Biomedical Knowledge Graphs with Neural Embeddings,2020,RDR Neves,,repositorio.ul.pt,https://repositorio.ul.pt/handle/10451/48359
+[HTML][HTML] A knowledge graph of combined drug therapies using semantic predications from biomedical literature: Algorithm development,2020,J Du,,medinform.jmir.org,https://medinform.jmir.org/2020/4/e18323
+[PDF][PDF] Extending Quaternion Knowledge Graph Embeddings,xx,R Alexander,,rbalexander.me,https://rbalexander.me/resources/extending-quaternion-knowledge-graph-embeddings.pdf
+[HTML][HTML] Drug repurposing for COVID-19 via knowledge graph completion,2021,R Zhang,,Elsevier,https://www.sciencedirect.com/science/article/pii/S1532046421000253
+Biomedical knowledge graphs construction from conditional statements,2020,T Jiang,,ieeexplore.ieee.org,https://ieeexplore.ieee.org/abstract/document/9034075/
+Biomedical Information Extraction for Disease Gene Prioritization,2020,J Parmar,,arxiv.org,https://arxiv.org/abs/2011.05188
+A scalable embedding based neural network method for discovering knowledge from biomedical literature,2020,S Sang,,ieeexplore.ieee.org,https://ieeexplore.ieee.org/abstract/document/9122407/
+CROssBAR: Comprehensive Resource of Biomedical Relations with Deep Learning Applications and Knowledge Graph Representations,2020,T Dogan,,biorxiv.org,https://www.biorxiv.org/content/10.1101/2020.09.14.296889v1.abstract
+Enrich Rare Disease Phenotypic Characterizations via a Graph Convolutional Network Based Recommendation System,2020,F Shen,,ieeexplore.ieee.org,https://ieeexplore.ieee.org/abstract/document/9183118/
+[PDF][PDF] Scalable Knowledge-Graph Analytics at 136 Petaflop/s,xx,PS Ramakrishnan,,osti.gov,https://www.osti.gov/servlets/purl/1798621
+Rewire-then-Probe: A Contrastive Recipe for Probing Biomedical Knowledge of Pre-trained Language Models,2021,Z Meng,,arxiv.org,https://arxiv.org/abs/2110.08173
+[BOOK][B] Towards biomedical interpretability: methods for knowledge graph machine learning research in medicine,2020,C Nelson,,search.proquest.com,https://search.proquest.com/openview/1f070b0df48dbdc0652d0b55e41d4a74/1?pq-origsite=gscholar&cbl=18750&diss=y
+[HTML][HTML] A knowledge graph representation of baseline characteristics for the Dutch proton therapy research registry,2021,M Sloep,,Elsevier,https://www.sciencedirect.com/science/article/pii/S2405630821000860
+[HTML][HTML] Disease ontologies for knowledge graphs,2021,N Kurbatova,,Springer,https://link.springer.com/article/10.1186/s12859-021-04173-w
+Knowledge-Graph-Based Drug Repositioning against COVID-19 by graph convolutional network with attention mechanism,2021,M Che,,mdpi.com,https://www.mdpi.com/952036
+Conceptualized representation learning for chinese biomedical text mining,2020,N Zhang,,arxiv.org,https://arxiv.org/abs/2008.10813
+Towards Incorporating Entity-specific Knowledge Graph Information in Predicting Drug-Drug Interactions,2012,I Mondal,,arxiv.org,https://arxiv.org/abs/2012.11142
+Drug target discovery using knowledge graph embeddings,34,SK Mohamed,,dl.acm.org,https://dl.acm.org/doi/abs/10.1145/3297280.3297282
+PatientEG dataset: bringing event graph model with temporal relations to electronic medical records,2018,X Liu,,arxiv.org,https://arxiv.org/abs/1812.09905
+Integrating Logical Rules Into Neural Multi-Hop Reasoning for Drug Repurposing,2020,Y Liu,,arxiv.org,https://arxiv.org/abs/2007.05292
+Biomedical Graph Visualizer for Identifying Drug Candidates,2020,A Teng,,biorxiv.org,https://www.biorxiv.org/content/10.1101/2020.11.27.368811v1.abstract
+An efficient approach towards the generation and analysis of interoperable clinical data in a knowledge graph,2021,J Dörpinghaus,,ieeexplore.ieee.org,https://ieeexplore.ieee.org/abstract/document/9555705/
+Leveraging semantics for large-scale knowledge graph evaluation,2017,SM Rashid,,dl.acm.org,https://dl.acm.org/doi/abs/10.1145/3091478.3162385
+SynLethDB 2.0: A web-based knowledge graph database on synthetic lethality for novel anticancer drug discovery,2021,J Wang,,biorxiv.org,https://www.biorxiv.org/content/10.1101/2021.12.28.474346.abstract
+A Knowledge Graph Approach Towards Hidden Patterns Discovery From Biomedical Publications,2021,S Bakhtyar,,diva-portal.org,https://www.diva-portal.org/smash/record.jsf?pid=diva2:1598419
+[PDF][PDF] Explaining Drug Discovery Hypotheses Using Knowledge Graph Patterns,2021,K Schatz,,repository.lib.ncsu.edu,https://repository.lib.ncsu.edu/bitstream/handle/1840.20/39079/TR-2021-3.pdf?sequence=1
+[PDF][PDF] FunMap: Efficient Execution of Functional Mappings for Knowledge Graph Creation,2008,ME Vidal,,researchgate.net,https://www.researchgate.net/profile/David-Chaves-Fraga/publication/346220361_FunMap_Efficient_Execution_of_Functional_Mappings_for_Knowledge_Graph_Creation/links/5fbce8b1a6fdcc6cc65eec67/FunMap-Efficient-Execution-of-Functional-Mappings-for-Knowledge-Graph-Creation.pdf
+Data Exploration and Validation on dense knowledge graphs for biomedical research,2019,J Dörpinghaus,,arxiv.org,https://arxiv.org/abs/1912.06194
+Relation-weighted link prediction for disease gene identification,2020,S Pittala,,arxiv.org,https://arxiv.org/abs/2011.05138
+[HTML][HTML] Relation path feature embedding based convolutional neural network method for drug discovery,2019,D Zhao,,…,https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-019-0764-5
+[HTML][HTML] Finding melanoma drugs through a probabilistic knowledge graph,2017,JP McCusker,,peerj.com,https://peerj.com/articles/cs-106/
+Construction of a knowledge graph for diabetes complications from expert-reviewed clinical evidences,2020,L Wang,,Francis,https://www.tandfonline.com/doi/abs/10.1080/24699322.2020.1850866
+[PDF][PDF] BERTKG-DDI: Towards Incorporating Entity-specific Knowledge Graph Information in Predicting Drug-Drug Interactions.,2021,I Mondal,,ceur-ws.org,http://ceur-ws.org/Vol-2831/paper5.pdf
+[PDF][PDF] Reflections on: Finding Melanoma Drugs Through a Probabilistic Knowledge Graph.,2019,JP McCusker,,ceur-ws.org,http://ceur-ws.org/Vol-2576/paper07.pdf
+[PDF][PDF] Noise Removal with Regular Expression in Knowledge Graphs,2020,PY Hou,,repository.lib.ncsu.edu,https://repository.lib.ncsu.edu/bitstream/handle/1840.20/38588/TR-2020-4.pdf?sequence=1
+[PDF][PDF] Proceedings of the 19th SIGBioMed Workshop on Biomedical Language Processing,19,D Demner-Fushman,,aclweb.org,https://www.aclweb.org/anthology/2020.bionlp-1.0.pdf
+[HTML][HTML] Embedding electronic health records onto a knowledge network recognizes prodromal features of multiple sclerosis and predicts diagnosis,2021,CA Nelson,,academic.oup.com,https://academic.oup.com/jamia/advance-article-abstract/doi/10.1093/jamia/ocab270/6463510
+Rediscovering alignment relations with Graph Convolutional Networks,2011,P Monnin,,arxiv.org,https://arxiv.org/abs/2011.06023
+Biomedical Text Link Prediction for Drug Discovery: A Case Study with COVID-19,2021,K McCoy,,mdpi.com,https://www.mdpi.com/1999-4923/13/6/794
+"Inference of Biomedical Relations Among Chemicals, Genes, Diseases, and Symptoms Using Knowledge Representation Learning",2019,W Choi,,ieeexplore.ieee.org,https://ieeexplore.ieee.org/abstract/document/8931752/
+The Magic of Semantic Enrichment and NLP for Medical Coding,2019,N García-Santa,,Springer,https://link.springer.com/chapter/10.1007/978-3-030-32327-1_12
+Knowledge Detection and Discovery using Semantic Graph Embeddings on Large Knowledge Graphs generated on Text Mining Results,2020,J Dörpinghaus,,ieeexplore.ieee.org,https://ieeexplore.ieee.org/abstract/document/9222910/
+Knowledge mining from large scale protein-protein interaction datasets at the era of big data,2018,D Li,,elibrary.ru,https://elibrary.ru/item.asp?id=38087676
+Detection of Drug-Drug Interactions Through Knowledge Graph Integrating Multi-attention with Capsule Network,2021,XR Su,,Springer,https://link.springer.com/chapter/10.1007/978-3-030-84532-2_38
+"[PDF][PDF] BROGUE: A Platform for Constructing and Visualizing"" Gene-Mutation-Disease"" Relation Knowledge Graphs to Support Biomedical Research and Clinical …",2020,D Zhao,,scitepress.org,https://www.scitepress.org/Papers/2020/91546/91546.pdf
+Knowledge-based biomedical data science,2020,TJ Callahan,,annualreviews.org,https://www.annualreviews.org/doi/abs/10.1146/annurev-biodatasci-010820-091627
+Entity Recognition Based on Knowledge Graph in Air Defense Domain,2020,Z Guo,,iopscience.iop.org,https://iopscience.iop.org/article/10.1088/1742-6596/1693/1/012168/meta
+Tackling scalability issues in mining path patterns from knowledge graphs: a preliminary study,2020,P Monnin,,arxiv.org,https://arxiv.org/abs/2007.08821
+Overview Of Medical Knowledge Mapping Research,2020,P Shengguang,,ieeexplore.ieee.org,https://ieeexplore.ieee.org/abstract/document/9424795/
+"Knowledge-Graph-Based Drug Repositioning against COVID-19 by Graph Convolutional Network with Attention Mechanism. Future Internet 2021, 13, 13",2021,M Che,,search.proquest.com,https://search.proquest.com/openview/55041aa3aa8022e1788b5d5046a8fe47/1?pq-origsite=gscholar&cbl=2032396
+Visual Query Method for Large Blackouts Based on Knowledge Graph,2019,J Zhang,,ieeexplore.ieee.org,https://ieeexplore.ieee.org/abstract/document/9051050/
+Construction of knowledge graph of drug-action mechanism,2021,J Zhao,,ieeexplore.ieee.org,https://ieeexplore.ieee.org/abstract/document/9527642/
+A Literature Review of Recent Graph Embedding Techniques for Biomedical Data,2020,Y Chen,,Springer,https://link.springer.com/chapter/10.1007/978-3-030-63823-8_3
+[PDF][PDF] Machine Learning and Link Prediction on Biomedical Knowledge Graphs Maschinelles Lernen und Verbindungsvorher-sage auf Biomedizinischen …,xx,LF Graf,,repositorium.meduniwien.ac.at,https://repositorium.meduniwien.ac.at/obvumwhs/content/titleinfo/5518433/full.pdf
+CKGECS: a Chinese knowledge graph for elderly care service,2020,H Xu,,inderscienceonline.com,https://www.inderscienceonline.com/doi/abs/10.1504/IJSTM.2020.106742
+[HTML][HTML] Ontology-based data integration for advancing toxicological knowledge,2019,RR Boyles,,Elsevier,https://www.sciencedirect.com/science/article/pii/S2468202019300051
+Deeper Clinical Document Understanding Using Relation Extraction,2112,HU Haq,,arxiv.org,https://arxiv.org/abs/2112.13259
+[HTML][HTML] A review: Knowledge reasoning over knowledge graph,2020,X Chen,,Elsevier,https://www.sciencedirect.com/science/article/pii/S0957417419306669
+Knowledge Reconciliation with Graph Convolutional Networks: Preliminary Results,4,P Monnin,,hal.inria.fr,https://hal.inria.fr/hal-02155546/
+Owl reasoning over big biomedical data,2013,X Chen,,ieeexplore.ieee.org,https://ieeexplore.ieee.org/abstract/document/6691755/
+Self-alignment pretraining for biomedical entity representations,2020,F Liu,,arxiv.org,https://arxiv.org/abs/2010.11784
+Knowledge-based Biomedical Data Science 2019,2019,TJ Callahan,,arxiv.org,https://arxiv.org/abs/1910.06710
+[HTML][HTML] Expert-augmented computational drug repurposing identified baricitinib as a treatment for COVID-19,2021,DP Smith,,frontiersin.org,https://www.frontiersin.org/articles/10.3389/fphar.2021.709856/full
+KGRefiner: Knowledge Graph Refinement for Improving Accuracy of Translational Link Prediction Methods,2021,MJ Saeedizade,,arxiv.org,https://arxiv.org/abs/2106.14233
+Semantic Graph Queries on Linked Data in Knowledge Graphs,2020,J Dörpinghaus,,Springer,https://link.springer.com/chapter/10.1007/978-3-030-82397-9_4
+International Journal of Education and Management Engineering (IJEME),xx,AFD Ismail,,mecs-press.org,http://www.mecs-press.org/ijeme/ijeme-v10-n2/v10n2-1.html
+Enriching Pre-trained Language Model with Dependency Syntactic Information for Chemical-Protein Interaction Extraction,2020,J Fan,,Springer,https://link.springer.com/chapter/10.1007/978-3-030-56725-5_5
+[CITATION][C] 基于多属性规则的生物医学语义关系研究,2021,范少萍， 安新颖,,2021,xx
+Network embedding in biomedical data science,2020,C Su,,academic.oup.com,https://academic.oup.com/bib/article-abstract/21/1/182/5228144
+Biomedical Entity Linking via Contrastive Context Matching,2106,S Ujiie,,arxiv.org,https://arxiv.org/abs/2106.07583
+[PDF][PDF] Biomedical Multi-source Data Integration using Knowledge Graphs and Entity Resolution: Understanding author expertise in Cancer Epigenetics research,xx,IA Ebeid,,researchgate.net,https://www.researchgate.net/profile/Islam-Ebeid/publication/357159447_Biomedical_Multi-source_Data_Integration_using_Knowledge_Graphs_and_Entity_Resolution_Understanding_author_expertise_in_Cancer_Epigenetics_research/links/61be501cfd2cbd7200ae9a08/Biomedical-Multi-source-Data-Integration-using-Knowledge-Graphs-and-Entity-Resolution-Understanding-author-expertise-in-Cancer-Epigenetics-research.pdf
+[HTML][HTML] Hetnet connectivity search provides rapid insights into how two biomedical entities are related,2021,DS Himmelstein,,greenelab.github.io,https://greenelab.github.io/connectivity-search-manuscript/
+"[PDF][PDF] Graph representation learning in bioinformatics: trends, methods and applications",2021,HC Yi,,researchgate.net,https://www.researchgate.net/profile/Haicheng-Yi/publication/354327323_Graph_representation_learning_in_bioinformatics_trends_methods_and_applications/links/61c082a1a6251b553ad1332d/Graph-representation-learning-in-bioinformatics-trends-methods-and-applications.pdf
+DOUBLER: Unified Representation Learning of Biological Entities and Documents for Predicting Protein–Disease Relationships,2020,T Sztyler,,biorxiv.org,https://www.biorxiv.org/content/10.1101/2020.10.27.357202v2.abstract
+A Joint Training Framework for Open-World Knowledge Graph Embeddings,3,V Karthik,,openreview.net,https://openreview.net/forum?id=HozL9BGbnKr
+Drug Discovery as a Recommendation Problem: Challenges and Complexities in Biological Decisions,2021,A Gogleva,,dl.acm.org,https://dl.acm.org/doi/abs/10.1145/3460231.3474598
+"[BOOK][B] Data Integration in the Life Sciences: 13th International Conference, DILS 2018, Hannover, Germany, November 20-21, 2018, Proceedings",2018,S Auer,,books.google.com,https://books.google.com/books?hl=en&lr=&id=79mBDwAAQBAJ&oi=fnd&pg=PP6&dq=%22Biomedical+knowledge+graph%22+&ots=nINORmrtLD&sig=8lpkqRlbytqn4Q8XuFkmRs-Vk1U
+Knowledge synthesis of 100 million biomedical documents augments the deep expression profiling of coronavirus receptors,2020,AJ Venkatakrishnan,,elifesciences.org,https://elifesciences.org/articles/58040
+Knowledge extraction and applications utilizing context data in knowledge graphs,2019,J Dörpinghaus,,ieeexplore.ieee.org,https://ieeexplore.ieee.org/abstract/document/8860066/
+Optimization of Retrieval Algorithms on Large Scale Knowledge Graphs,2020,J Dörpinghaus,,ieeexplore.ieee.org,https://ieeexplore.ieee.org/abstract/document/9222939/
+[HTML][HTML] Incorporating Domain Knowledge Into Language Models by Using Graph Convolutional Networks for Assessing Semantic Textual Similarity: Model …,2021,D Chang,,medinform.jmir.org,https://medinform.jmir.org/2021/11/e23101
+Dug: A Semantic Search Engine Leveraging Peer-Reviewed Literature to Span Biomedical Data Repositories,2021,AM Waldrop,,biorxiv.org,https://www.biorxiv.org/content/10.1101/2021.07.07.451461.abstract
+[HTML][HTML] Drug repurposing for COVID-19 using graph neural network and harmonizing multiple evidence,2021,K Hsieh,,nature.com,https://www.nature.com/articles/s41598-021-02353-5
+Knowledge graphs and their applications in drug discovery,2021,F MacLean,,Francis,https://www.tandfonline.com/doi/abs/10.1080/17460441.2021.1910673
+[HTML][HTML] BioTCM-SE: a semantic search engine for the information retrieval of modern biology and traditional Chinese medicine,2014,X Chen,,hindawi.com,https://www.hindawi.com/journals/cmmm/2014/957231/
+[HTML][HTML] Literature-based discovery approaches for evidence-based healthcare: a systematic review,2021,S Cheerkoot-Jalim,,Springer,https://link.springer.com/article/10.1007/s12553-021-00605-y
+Modeling Heterogeneous Hierarchies with Relation-specific Hyperbolic Cones,2021,Y Bai,,proceedings.neurips.cc,https://proceedings.neurips.cc/paper/2021/hash/662a2e96162905620397b19c9d249781-Abstract.html
+"Drug repurposing for covid-19 using graph neural network with genetic, mechanistic, and epidemiological validation",2020,KL Hsieh,,ncbi.nlm.nih.gov,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7743080/
+AGATHA: Automatic Graph Mining And Transformer based Hypothesis Generation Approach,29,J Sybrandt,,dl.acm.org,https://dl.acm.org/doi/abs/10.1145/3340531.3412684
+iasis: Towards heterogeneous big data analysis for personalized medicine,2019,A Krithara,,ieeexplore.ieee.org,https://ieeexplore.ieee.org/abstract/document/8787467/
+[HTML][HTML] Preclinical validation of therapeutic targets predicted by tensor factorization on heterogeneous graphs,2020,S Paliwal,,nature.com,https://www.nature.com/articles/s41598-020-74922-z
+Towards Bootstrapping Biomedical Named Entity Recognition using Reinforcement Learning,2020,D Wang,,ieeexplore.ieee.org,https://ieeexplore.ieee.org/abstract/document/9313571/
+"[HTML][HTML] A semantic relationship mining method among disorders, genes, and drugs from different biomedical datasets",2020,L Zhang,,…,https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-020-01274-z
+[HTML][HTML] Biomedical Data Commons (BMDC) prioritizes B-lymphocyte non-coding genetic variants in Type 1 Diabetes,2021,SN Piekos,,journals.plos.org,https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009382
+[PDF][PDF] Clinical and Translational Radiation Oncology,xx,M Sloep,,research.rug.nl,https://research.rug.nl/files/193142180/PIIS2405630821000860.pdf
+[PDF][PDF] Transfer Learning for Biomedical Named Entity Recognition with BioBERT.,2019,A Symeonidou,,ceur-ws.org,http://ceur-ws.org/Vol-2451/paper-26.pdf
+[HTML][HTML] A Policy-Driven Approach to Secure Extraction of COVID-19 Data From Research Papers,2021,L Elluri,,ncbi.nlm.nih.gov,https://www.ncbi.nlm.nih.gov/pmc/articles/pmc8387600/
+Community approaches for integrating environmental exposures into human models of disease,2020,AE Thessen,,ehp.niehs.nih.gov,https://ehp.niehs.nih.gov/doi/abs/10.1289/EHP7215
+An introduction to the resource description framework,1998,E Miller,,Library,https://asistdl.onlinelibrary.wiley.com/doi/abs/10.1002/bult.105
+Recent advances in biomedical literature mining,2021,S Zhao,,academic.oup.com,https://academic.oup.com/bib/article-abstract/22/3/bbaa057/5838460
+[PDF][PDF] Towards Protecting Vital Healthcare Programs by Extracting Actionable Knowledge from Policy,2021,V Lopez,,aclanthology.org,https://aclanthology.org/2021.findings-acl.308.pdf
+Refined AI-Generated Drugs for COVID-19 Using Virtual Reality,2021,S Manjushree,,annalsofrscb.ro,https://www.annalsofrscb.ro/index.php/journal/article/view/3140
+Open graph benchmark: Datasets for machine learning on graphs,2020,W Hu,,arxiv.org,https://arxiv.org/abs/2005.00687
+[HTML][HTML] Biomedical relation extraction using distant supervision,2020,N Boudjellal,,hindawi.com,https://www.hindawi.com/journals/sp/2020/8893749/
+Data Integration in the Life Sciences,2015,S Auer,,Springer,https://link.springer.com/content/pdf/10.1007/978-3-030-06016-9.pdf
+[HTML][HTML] Recent advances in the study of ancient books on traditional Chinese medicine,2020,L Gao,,wjtcm.net,https://www.wjtcm.net/article.asp?issn=2311-8571;year=2020;volume=6;issue=1;spage=61;epage=66;aulast=Gao
+[PDF][PDF] Overview of DrugProt BioCreative VII track: quality evaluation and large scale text mining of drug-gene/protein relations,2021,A Miranda,,biocreative.bioinformatics.udel.edu,https://biocreative.bioinformatics.udel.edu/media/store/files/2021/Track1_pos_1_BC7_overview.pdf
+BioNet: a large-scale and heterogeneous biological network model for interaction prediction with graph convolution,2021,X Yang,,academic.oup.com,https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbab491/6440126
+"Benchmarking RDF Metadata Representations: Reification, Singleton Property and RDF",2021,F Orlandi,,ieeexplore.ieee.org,https://ieeexplore.ieee.org/abstract/document/9364401/
+Subgraph neural networks,2020,E Alsentzer,,arxiv.org,https://arxiv.org/abs/2006.10538
+[HTML][HTML] Leveraging Artificial Intelligence (AI) Capabilities for COVID-19 Containment,2021,C Surianarayanan,,Springer,https://link.springer.com/article/10.1007/s00354-021-00128-0
+[HTML][HTML] JAK inhibition reduces SARS-CoV-2 liver infectivity and modulates inflammatory responses to reduce morbidity and mortality,2021,J Stebbing,,advances.sciencemag.org,https://advances.sciencemag.org/content/7/1/eabe4724?intcmp=trendmd-adv
+[PDF][PDF] Implementation of crossbar web service for interactive visualizations of biological networks,2020,A Atakan,,open.metu.edu.tr,https://open.metu.edu.tr/bitstream/handle/11511/69215/12625838.pdf
+"Representation learning for networks in biology and medicine: Advancements, challenges, and opportunities",2104,MM Li,,arxiv.org,https://arxiv.org/abs/2104.04883
+A Topological View of Rule Learning in Knowledge Graphs,2110,Z Yan,,arxiv.org,https://arxiv.org/abs/2110.02510
+Question answering for biomedicine,2016,Y Liu,,era.library.ualberta.ca,https://era.library.ualberta.ca/items/b14d0528-6918-45c9-9c5d-69e77696af46
+[PDF][PDF] A Multi-Source Linked Open Data Fusion Method for Gene Disorder Drug Relationship Querying.,2019,G Rao,,ceur-ws.org,http://ceur-ws.org/Vol-2427/SEPDA_2019_paper_7.pdf
+[PDF][PDF] On Graph-Based Approaches for Protein Function Annotation and Knowledge Discovery,2021,B Sarker,,hal.univ-lorraine.fr,https://hal.univ-lorraine.fr/tel-03274084/document
+Visualization of linked biomedical data using cluster chart,2017,Y Shan,,ieeexplore.ieee.org,https://ieeexplore.ieee.org/abstract/document/8332633/
+Text mining approaches for dealing with the rapidly expanding literature on COVID-19,2021,LL Wang,,academic.oup.com,https://academic.oup.com/bib/article-abstract/22/2/781/6024738
+Recent Advances in Automated Question Answering In Biomedical Domain,2111,KD Baksi,,arxiv.org,https://arxiv.org/abs/2111.05937
+[HTML][HTML] Start-up story: yewno: an ai-driven path to a knowledge-based future,2017,R Gramatica,,insights.uksg.org,https://insights.uksg.org/articles/10.1629/uksg.369/?utm_source=TrendMD&utm_medium=cpc&utm_campaign=Insights_TrendMD_1
+An integrated pipeline model for biomedical entity alignment,2021,Y Hu,,Springer,https://link.springer.com/article/10.1007/s11704-020-8426-4
+Graph representation learning,2020,WL Hamilton,,morganclaypool.com,https://www.morganclaypool.com/doi/abs/10.2200/S01045ED1V01Y202009AIM046
+Recent omics-based computational methods for COVID-19 drug discovery and repurposing,2021,H Tayara,,academic.oup.com,https://academic.oup.com/bib/article-abstract/22/6/bbab339/6355836
+Graph neural pre-training for enhancing recommendations using side information,2107,Z Meng,,arxiv.org,https://arxiv.org/abs/2107.03936
+Learning Domain-Specialised Representations for Cross-Lingual Biomedical Entity Linking,2105,F Liu,,arxiv.org,https://arxiv.org/abs/2105.14398
+[PDF][PDF] ELMAN DEEP NEURAL NETWORK WITH MAXIMAL BOUNDARY PRINCIPAL FEATURE EXTRACTION FOR THYROID DISEASE DIAGNOSIS,2020,M Saktheeswari,,academia.edu,https://www.academia.edu/download/66138229/IJARET_11_12_138.pdf
+[PDF][PDF] When machine learning meets healthcare: towards knowledge incorporation in multimodal healthcare analytics,2020,J Yuan,,urresearch.rochester.edu,https://urresearch.rochester.edu/fileDownloadForInstitutionalItem.action?itemId=36360&itemFileId=189758
+"[PDF][PDF] ATG Interviews Ruggero Gramatica, Founder and CEO, Yewno, Inc.",2016,K Strauch,,docs.lib.purdue.edu,https://docs.lib.purdue.edu/cgi/viewcontent.cgi?article=7521&context=atg
+Graph few-shot learning via knowledge transfer,2020,H Yao,,ojs.aaai.org,https://ojs.aaai.org/index.php/AAAI/article/view/6142
+"Fast, Effective and Self-Supervised: Transforming Masked LanguageModels into Universal Lexical and Sentence Encoders",2104,F Liu,,arxiv.org,https://arxiv.org/abs/2104.08027
+Bionerflair: biomedical named entity recognition using flair embedding and sequence tagger,2011,H Patel,,arxiv.org,https://arxiv.org/abs/2011.01504
+Synergistic and antagonistic drug combinations against SARS-CoV-2,2021,T Bobrowski,,Elsevier,https://www.sciencedirect.com/science/article/pii/S1525001620306730
+[HTML][HTML] Natural Language Processing and Graph Representation Learning for Clinical Data,2021,D Chang,,search.proquest.com,https://search.proquest.com/openview/ce7b0c638147db08383c1784b8da6726/1?pq-origsite=gscholar&cbl=18750&diss=y
+[HTML][HTML] Computational methods directed towards drug repurposing for COVID-19: advantages and limitations,2021,PP Sharma,,pubs.rsc.org,https://pubs.rsc.org/en/content/articlehtml/2021/ra/d1ra05320e
+Target identification and validation,2021,SK Ashenden,,Elsevier,https://www.sciencedirect.com/science/article/pii/B9780128200452000052
+"[BOOK][B] Diversity, Divergence, Dialogue: 16th International Conference, iConference 2021, Beijing, China, March 17–31, 2021, Proceedings, Part II",2021,K Toeppe,,books.google.com,https://books.google.com/books?hl=en&lr=&id=wcIkEAAAQBAJ&oi=fnd&pg=PR5&dq=%22Biomedical+knowledge+graph%22+&ots=ooqwP_BgLZ&sig=R62qS5z6Aibk31DQ2snprtjU5fc
+A Network Polypharmacology Approach to Drug Repurposing for Diffuse Intrinsic Pontine Glioma,2020,F MacLean,,biorxiv.org,https://www.biorxiv.org/content/10.1101/2020.06.14.150714v1.abstract
+An Overview of Significant Role of Data Science and Its Associated Methodologies in COVID-19 Handling,2021,A Singh,,Springer,https://link.springer.com/chapter/10.1007/978-981-16-2786-6_1
+[HTML][HTML] Extracting chemical-protein interactions from biomedical literature via granular attention based recurrent neural networks,2019,H Lu,,Elsevier,https://www.sciencedirect.com/science/article/pii/S0169260719301257
+Analytical Methods for Improving Causal Inference,2021,M Sinha,,ir.library.oregonstate.edu,https://ir.library.oregonstate.edu/concern/graduate_thesis_or_dissertations/6q182t43z
+[HTML][HTML] Analysis of Health Trajectories Leading to Adverse Opioid-Related Events,2021,AS Gilson,,ncbi.nlm.nih.gov,https://www.ncbi.nlm.nih.gov/pmc/articles/pmc8378649/
+[PDF][PDF] Structured Multi-View Representations for Drug Combinations,4,S Liu,,ml4molecules.github.io,https://ml4molecules.github.io/papers2020/ML4Molecules_2020_paper_15.pdf
+Emerging role of artificial intelligence in therapeutics for COVID-19: A systematic review,2020,K Kaushal,,Francis,https://www.tandfonline.com/doi/abs/10.1080/07391102.2020.1855250
+Discovery of synergistic and antagonistic drug combinations against SARS-CoV-2 in vitro,2020,T Bobrowski,,ncbi.nlm.nih.gov,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7337386/
+Can the COVID-19 Pandemic Disrupt the Current Drug Development Practices?,2021,JH Won,,mdpi.com,https://www.mdpi.com/1422-0067/22/11/5457
+[HTML][HTML] An attention-based effective neural model for drug-drug interactions extraction,2017,W Zheng,,Springer,https://link.springer.com/article/10.1186/s12859-017-1855-x
+Leveraging Multiple Drug Modalities for Drug Repurposing,2021,G Nordon,,cs.technion.ac.il,https://www.cs.technion.ac.il/users/wwwb/cgi-bin/tr-info.cgi?2021/PHD/PHD-2021-07
+[HTML][HTML] Artificial intelligence for COVID-19: battling the pandemic with computational intelligence,2021,Z Xu,,Elsevier,https://www.sciencedirect.com/science/article/pii/S2667102621000863
+Topological network measures for drug repositioning,2021,A Badkas,,academic.oup.com,https://academic.oup.com/bib/article-abstract/22/4/bbaa357/6043286
+Repurposing vandetanib plus everolimus for the treatment of ACVR1-mutant diffuse intrinsic pontine glioma,2021,DM Carvalho,,AACR,https://cancerdiscovery.aacrjournals.org/content/early/2021/09/20/2159-8290.CD-20-1201.abstract
+A Review of Anonymization for Healthcare Data,2021,IE Olatunji,,arxiv.org,https://arxiv.org/abs/2104.06523
+[HTML][HTML] Robotics and artificial intelligence in healthcare during COVID-19 pandemic: A systematic review,2021,S Sarker,,Elsevier,https://www.sciencedirect.com/science/article/pii/S0921889021001871
+A Systematic Review on the Contribution of Artificial Intelligence in the Development of Medicines for COVID-2019,2021,C Pires,,mdpi.com,https://www.mdpi.com/2075-4426/11/9/926
+Smart War on COVID-19 and Global Pandemics: Integrated AI and Blockchain Ecosystem,2021,AD Pathak,,taylorfrancis.com,https://www.taylorfrancis.com/chapters/edit/10.1201/9781003137481-5/smart-war-covid-19-global-pandemics-anil-pathak-debasis-saran-sibani-mishra-madapathi-hitesh-sivaiah-bathula-kisor-sahu
+[PDF][PDF] Quantitative semantics and graph theory as a framework for complex systems modeling,2015,R Gramatica,,kclpure.kcl.ac.uk,https://kclpure.kcl.ac.uk/portal/files/51217320/2015_Gramatica_Ruggero_0979659_ethesis.pdf
+Semantic Reasoning of Product Biologically Inspired Design Based on BERT,2021,Z Bian,,mdpi.com,https://www.mdpi.com/2076-3417/11/24/12082
+A Term Extraction Approach to Expert Finding on the COVID-19 Open Research Dataset,2020,C Robin,,openreview.net,https://openreview.net/forum?id=Ufn6jNVFNmz
+Comprehensive survey of using machine learning in the COVID-19 pandemic,2021,N El-Rashidy,,mdpi.com,https://www.mdpi.com/1162478
+[PDF][PDF] CoTransH: 科技文献知识图谱中语义关系预测的翻译模型,2021,陶玥， 余丽，,,itapress.cn,http://www.itapress.cn/EN/article/downloadArticleFile.do?attachType=PDF&id=1579
+[CITATION][C] Cataloguing and linking publicly available biomedical SPARQL endpoints for federation-addressing aPosteriori data integration,2017,SMA Hasnain,,thesis,xx
+An Overview of Ontologies and Tool Support for COVID-19 Analytics,2021,A Ahmad,,ieeexplore.ieee.org,https://ieeexplore.ieee.org/abstract/document/9626260/
+Mining entity and relation structures from text: An effort-light approach,2018,X Ren,,ideals.illinois.edu,https://www.ideals.illinois.edu/handle/2142/101001
+[HTML][HTML] Answering exact distance queries on real-world graphs with bounded performance guarantees,2014,Y Xiang,,Springer,https://link.springer.com/article/10.1007/s00778-013-0338-6
+[HTML][HTML] Sending AI Algorithms to Medical School: Transfer Learning in Medicine Towards Enhanced Model Performance and Bias Reduction,2021,SG Mullin,,search.proquest.com,https://search.proquest.com/openview/36d22146ad435fd323b6fa385b1bf809/1?pq-origsite=gscholar&cbl=18750&diss=y
+"Diversity, Divergence, Dialogue",xx,K Toeppe,,Springer,https://link.springer.com/content/pdf/10.1007/978-3-030-71305-8.pdf
+"[BOOK][B] Progress in Artificial Intelligence: 20th EPIA Conference on Artificial Intelligence, EPIA 2021, Virtual Event, September 7-9, 2021, Proceedings",2021,G Marreiros,,books.google.com,https://books.google.com/books?hl=en&lr=&id=hd5BEAAAQBAJ&oi=fnd&pg=PR5&dq=%22Biomedical+knowledge+graph%22+&ots=GOdUu-d7Gb&sig=DeB_PSSD5yoTjcwnd9UQGwpyFu0
